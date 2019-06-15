@@ -1,0 +1,16 @@
+{
+    "_template": "gh:hackoregon/2019-backend-cookiecutter-django", 
+    "data_science_repo_name": "awesomesauce", 
+    "data_science_repo_url": "http://cnn.com", 
+    "email": "stephen.tortora-lee@hackoregon.org", 
+    "full_name": "Stephen Tortora-Lee", 
+    "gis_project": "True", 
+    "github_repo": "2019-awesome-systems-backend", 
+    "github_username": "unstasis", 
+    "hack_oregon_team": "Awesome Systems", 
+    "project_short_description": "Cool awesome project about stuff.", 
+    "python_package_namespace": "hackoregon_awesome_systems", 
+    "python_subpackage": "noad", 
+    "version": "0.1.0", 
+    "year": "2019"
+}
